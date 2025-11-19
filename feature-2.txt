@@ -1,0 +1,3 @@
+My second feature
+
+This line is added to understand git commit --amend command 
