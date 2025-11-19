@@ -1,0 +1,7 @@
+# Ignore the config.env file
+config.env
+*.env
+
+# Ignoring the log files
+app.log
+*.log
